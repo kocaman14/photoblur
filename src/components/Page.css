@@ -1,0 +1,39 @@
+
+.container {
+    text-align: center;
+    margin: 50px;
+    font-family: Arial, sans-serif;
+  }
+  
+ 
+  .image-container {
+    display: inline-block;
+    overflow: hidden;
+    border-radius: 10px;
+  }
+  
+
+  .image-container img {
+    transition: filter 0.3s ease; 
+  }
+  
+ 
+  .slider-container {
+    margin-top: 20px;
+  }
+  
+  .slider-label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  
+  .slider {
+    width: 300px;
+  }
+  
+  .blur-level {
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  
